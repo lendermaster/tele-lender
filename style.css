@@ -12,7 +12,7 @@ header {
     display: flex;
     background: #1e1e1e;
     justify-content: space-between;
-    padding: 12px;
+    padding: 16px;
 }
 
 header .logo {
@@ -43,7 +43,7 @@ header .btn {
     margin-left: auto;
     margin-right: auto;
     margin-top: 2rem;
-    max-width: 400px;
+    max-width: 300px;
     background: #1e1e1e;
     text-align: center;
     padding: 1.7rem;
